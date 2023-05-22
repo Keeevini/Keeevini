@@ -1,4 +1,4 @@
-<img width="25%" align="right" alt="Github" src="images/Pic. Scrat 1.png" />
+<img width="10%" align="right" alt="Github" src="images/Pic. Scrat 1.png" />
 
 <h3>
     Hi there, I'm Kevin!
