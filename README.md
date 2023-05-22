@@ -3,7 +3,7 @@
 I'm a full-stack software developer
 
 <a href="">
-    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=13&duration=3000&pause=1000&color=FFFFFF&width=435&height=25&lines=I'm+a+full-stack+software+developer"
+    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=14&duration=3000&pause=1000&color=FFFFFF&width=435&height=25&lines=I'm+a+full-stack+software+developer"
          alt="I'm a full stack Software Developer" />
 </a>
 
