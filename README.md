@@ -1,22 +1,24 @@
-<img width="18%" align="right" alt="Github" src="images/Pic. Scrat 1.png" />
+<p>
+    <img width="20%" align="right" alt="Github" src="images/Pic. Scrat 1.png" />
 
-<h3>
-    Hi there, I'm Kevin!
-    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" 
-         alt="Waving hand animated gif"
-         height="20"
-         width="20" />
-</h3>
-<a href="">
-    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=14&duration=3000&pause=1000&color=FFFFFF&width=435&height=25&lines=I'm+a+full-stack+software+developer"
-         alt="I'm a full stack Software Developer" />
-</a>
+    <h3>
+        Hi there, I'm Kevin!
+        <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" 
+             alt="Waving hand animated gif"
+             height="20"
+             width="20" />
+    </h3>
+    <a href="">
+        <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=14&duration=3000&pause=1000&color=FFFFFF&width=435&height=25&lines=I'm+a+full-stack+software+developer"
+             alt="I'm a full stack Software Developer" />
+    </a>
 
 ### About Me
 &nbsp;&nbsp;&nbsp;🧐 Interested in web development, UI design, NLP and data science  
 &nbsp;&nbsp;&nbsp;💼 Used to be a Software Development Intern at Ontraport  
 &nbsp;&nbsp;&nbsp;🎓 B.S. in Computer Science at University of California - Riverside  
 &nbsp;&nbsp;&nbsp;🌱 Currently learning React, SQL, and AWS
+</p>
 
 ### 💻 Technical Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
