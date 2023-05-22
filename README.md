@@ -11,10 +11,10 @@
 </a>
 
 ### About Me
-  🧐 Interested in web development, UI design, NLP and data science  
-  💼 Used to be a Software Development Intern at Ontraport  
-  🎓 B.S. in Computer Science at University of California - Riverside  
-  🌱 Currently learning React, SQL, and AWS
+&nbsp;&nbsp;&nbsp;🧐 Interested in web development, UI design, NLP and data science  
+&nbsp;&nbsp;&nbsp;💼 Used to be a Software Development Intern at Ontraport  
+&nbsp;&nbsp;&nbsp;🎓 B.S. in Computer Science at University of California - Riverside  
+&nbsp;&nbsp;&nbsp;🌱 Currently learning React, SQL, and AWS
 
 ### 💻 Technical Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
