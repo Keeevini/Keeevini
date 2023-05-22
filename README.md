@@ -13,11 +13,15 @@
              alt="I'm a full stack Software Developer" />
     </a>
 
-### About Me
-&nbsp;&nbsp;&nbsp;🧐 Interested in web development, UI design, NLP and data science  
-&nbsp;&nbsp;&nbsp;💼 Used to be a Software Development Intern at Ontraport  
-&nbsp;&nbsp;&nbsp;🎓 B.S. in Computer Science at University of California - Riverside  
-&nbsp;&nbsp;&nbsp;🌱 Currently learning React, SQL, and AWS
+    <h3>
+        About Me
+    </h3>
+    <p>
+       🧐 Interested in web development, UI design, NLP and data science  
+       💼 Used to be a Software Development Intern at Ontraport  
+       🎓 B.S. in Computer Science at University of California - Riverside  
+       🌱 Currently learning React, SQL, and AWS
+    </p>
 </p>
 
 ### 💻 Technical Skills
