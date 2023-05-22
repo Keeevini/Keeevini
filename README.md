@@ -15,10 +15,10 @@
         About Me
     </h3>
     <p>
-       🧐 Interested in web development, UI design, NLP and data science<br>
-       💼 Used to be a Software Development Intern at Ontraport<br>
-       🎓 B.S. in Computer Science at University of California - Riverside<br>
-       🌱 Currently learning React, SQL, and AWS
+    &nbsp;&nbsp;&nbsp;🧐 Interested in web development, UI design, NLP and data science<br>
+    &nbsp;&nbsp;&nbsp;💼 Used to be a Software Development Intern at Ontraport<br>
+    &nbsp;&nbsp;&nbsp;🎓 B.S. in Computer Science at University of California - Riverside<br>
+    &nbsp;&nbsp;&nbsp;🌱 Currently learning React, SQL, and AWS
     </p>
 </p>
 
