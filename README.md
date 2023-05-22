@@ -1,6 +1,5 @@
 <p>
     <img width="20%" align="right" alt="Github" src="images/Pic. Scrat 1.png" />
-
     <h3>
         Hi there, I'm Kevin!
         <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" 
@@ -12,7 +11,6 @@
         <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=14&duration=3000&pause=1000&color=FFFFFF&width=435&height=25&lines=I'm+a+full-stack+software+developer"
              alt="I'm a full stack Software Developer" />
     </a>
-
     <h3>
         About Me
     </h3>
