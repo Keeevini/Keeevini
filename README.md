@@ -2,8 +2,8 @@
     Hi there, I'm Kevin!
     <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" 
          alt="Waving hand animated gif"
-         height="30"
-         width="30" />
+         height="20"
+         width="20" />
 </h3>
 
 I'm a full-stack software developer
