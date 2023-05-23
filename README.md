@@ -64,7 +64,6 @@
 </details>
 
 <p align="center">
-    
     <a href="https://www.linkedin.com/in/keeevini/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
     <a href="mailto:kevin.ni.smile@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
     <a href="(https://github.com/Keeevini"><img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white" /></a>
