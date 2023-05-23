@@ -8,7 +8,7 @@
              width="20" />
     </h2>
     <a href="">
-        <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=14&duration=3000&pause=1000&color=FFFFFF&width=435&height=25&lines=I'm+a+full-stack+software+developer"
+        <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=14&duration=3000&pause=1000&color=FFFFFF&width=435&height=25&lines=I'm+a+full-stack+software+developer+%3A);I'm+open+to+hiring%2C+reach+out!;I'm+a+major+foodie!"
              alt="I'm a full stack Software Developer" />
     </a>
     <h3>
