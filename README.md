@@ -16,7 +16,7 @@
     </h3>
     <p>
     &nbsp;&nbsp;&nbsp;&nbsp;🧐 Interested in web development, UI design, NLP and data science<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;💼 Used to be a Software Development Intern at Ontraport<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;💼 Contract full-time software engineer at Scale AI<br>
     &nbsp;&nbsp;&nbsp;&nbsp;🎓 B.S. in Computer Science at University of California - Riverside<br>
     &nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently learning React, SQL, and AWS
     </p>
